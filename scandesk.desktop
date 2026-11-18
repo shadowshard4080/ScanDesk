@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=ScanDesk
+GenericName=Document Scanner
+Comment=Scan, copy and print documents
+Exec=scandesk
+Icon=scanner
+Terminal=false
+Categories=Graphics;Scanning;Qt;
+Keywords=scan;scanner;copy;copier;print;pdf;document;
+StartupWMClass=scandesk
